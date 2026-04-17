@@ -180,7 +180,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -194,10 +195,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9c6df346b41c3edc",
+  "active": "68ef614cacca63fb",
   "lastOpenFiles": [
-    "新建 文本文档.txt",
+    "基础知识.md",
     "问题的总结归纳.md",
-    "基础知识.md"
+    "新建 文本文档.txt"
   ]
 }
